@@ -19,8 +19,8 @@ export default function AboutIntro() {
 
         <div className="relative aspect-[3/2] w-full overflow-hidden rounded-2xl shadow-lg">
           <Image
-            src="/images/about-satellite.webp"
-            alt="Satellite orbiting Earth, representing global connectivity"
+            src="/images/philippinesrise.webp"
+            alt="Earth viewed from orbit with global connectivity lines converging over Southeast Asia"
             fill
             className="object-cover"
             sizes="(min-width: 1024px) 520px, 90vw"

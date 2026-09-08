@@ -42,8 +42,8 @@ export default function PartnersHero() {
 
           <div className="relative aspect-[16/9] w-full overflow-hidden rounded-2xl shadow-lg lg:aspect-[3/2]">
             <Image
-              src="/images/satelightimage.png"
-              alt="Satellites orbiting Earth, representing global connectivity"
+              src="/images/philippinestotheworldv2.webp"
+              alt="Night-lights map showing SunBeds' global distribution network connecting the Philippines to Dubai, China, and Japan"
               fill
               className="object-cover"
               sizes="(min-width: 1024px) 520px, 90vw"
